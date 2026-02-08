@@ -4,9 +4,9 @@
 
 ## <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="30px">&nbsp;***About me***
 
-Soy Ingeniero Civil Industrial con sólida experiencia en **Análisis de Datos y Control de Gestión**. Me especializo en optimización logística y gestión de flotas de primera milla. Soy un apasionado por transformar datos complejos en decisiones estratégicas y procesos eficientes.
+Soy Ingeniero Civil Industrial con sólida experiencia en **Análisis de Datos y Control de Gestión**. Me especializo en reportería y gestión de mejoras. Soy un apasionado por transformar datos complejos en decisiones estratégicas y procesos eficientes.
 
-* **Logro Destacado:** En mi rol anterior, logré aumentar la efectividad de retiro para el socio **Cencosud** de un 69% a un **95% estable**.
+* **Logro Destacado:** En mi rol anterior en el rubro de la lógistica, logré aumentar la efectividad de retiro nuestro socio en Región Metropoitana de un 69% a un **95% estable**.
 - 🌱 Actualmente estoy profundizando mis conocimientos en:
   - SQL Avanzado y Modelamiento de Datos.
   - Python para Ciencia de Datos (Pandas, NumPy).
